@@ -29,7 +29,7 @@ streets.addTo(map);
 
  // Alternatively, we can create a circle using the circleMarker() finction
 L.circleMarker([34.0522, -118.2437], {
-    radius: 100, 
+    radius: 30, 
     color: "black", 
     fillColor: '#ffffa1'    
 }).addTo(map);
